@@ -1,0 +1,27 @@
+# Site de Receitas Básicas
+
+## Descrição
+O site consistirá em uma página de índice principal que conterá links para algumas receitas.
+
+## Funcionalidades Principais
+- [Mas é importante ter em mente que este projeto é apenas para construir seus recursos de HTML; revisitaremos este projeto no futuro para estilizá-lo com CSS.]
+
+## Pré-requisitos
+Antes de começar, certifique-se de ter instalado [lista de pré-requisitos, por exemplo, Node.js, Python, etc.].
+
+## Como Iniciar
+Siga estas etapas para começar:
+1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+2. Instale as dependências: `npm install` ou `pip install -r requirements.txt` (ou qualquer que seja a instrução para a sua tecnologia).
+3. Execute o projeto: `npm start` ou `python app.py` (ou instrução equivalente).
+
+## Contribuição
+Se você quiser contribuir, siga estas etapas:
+1. Faça um fork do projeto.
+2. Crie uma nova branch: `git checkout -b feature-nova`.
+3. Faça suas alterações e commit: `git commit -m 'Adicionei uma nova funcionalidade'`.
+4. Faça push para a branch: `git push origin feature-nova`.
+5. Abra um pull request.
+
+## Licença
+Este projeto está licenciado sob a [insira o tipo de licença, por exemplo, MIT License] - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
